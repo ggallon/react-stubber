@@ -1,5 +1,5 @@
 {
-  "name": "react-stubber",
+  "name": "@rock/react-stubber",
   "version": "1.0.1",
   "description": "Simple but useful stubbing solution React",
   "repository": {
