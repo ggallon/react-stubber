@@ -1,4 +1,5 @@
 import React from 'react';
+
 let stubbingMode = false;
 
 export function mayBeStubbed(Comp) {
@@ -15,7 +16,7 @@ export function mayBeStubbed(Comp) {
             <span>{label}</span>
           );
       }
-      };
+    };
   }
 
   return Comp;
