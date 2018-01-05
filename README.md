@@ -1,6 +1,6 @@
 # React Stubber
 
-A simple but useful stubbing solution for React. This will work with any container library whether it's Redux, [React Komposer](https://github.com/kadirahq/react-komposer) or with any React Component.
+A simple but useful stubbing solution for React. This will work with any container library whether it's Redux, [React Komposer](https://github.com/ggallon/react-komposer) or with any React Component.
 
 ---
 
