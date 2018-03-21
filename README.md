@@ -1,4 +1,6 @@
 # React Stubber
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fggallon%2Freact-stubber.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fggallon%2Freact-stubber?ref=badge_shield)
+
 
 A simple but useful stubbing solution for React. This will work with any container library whether it's Redux, [React Komposer](https://github.com/ggallon/react-komposer) or with any React Component.
 
@@ -68,3 +70,7 @@ stub(CommentListContainer3, (props) => (
 Then once rendered it will looks like this.
 
 ![](docs/with-custom-stub.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fggallon%2Freact-stubber.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fggallon%2Freact-stubber?ref=badge_large)
